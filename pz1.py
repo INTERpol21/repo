@@ -1,3 +1,4 @@
+
 #1pz
 
 duration = int(input("Enter all the time in second: "))
@@ -59,3 +60,4 @@ for procent in range (20):
         print(procent, "процента", end=" ")
     else:
         print(procent, "процентов", end=" ")
+
